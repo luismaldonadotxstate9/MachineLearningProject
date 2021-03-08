@@ -5,11 +5,15 @@ Project description:
 
 
 
-Use case description:
+Use case description: (Dr.Lee ask about this)
 
 
 
 Useful features from your data & the descriptions of the features:
+-closing price/stock price
+-Daily returns
+-Annual Returns
+-Date
 
 
 
