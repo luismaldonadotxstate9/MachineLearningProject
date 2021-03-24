@@ -14,9 +14,7 @@ Three types of investors:
 Low risk appetite
 Medium risk appetite
 High risk appetite
-Create three portfolios based on the investors’ risk appetites and a sensitivity analysis and compare the beta and alpha of these portfolios to the benchmark (S&P 500).
-Make investment recommendations based on the excess return and excess risk derived from the betas and alphas, the Sharpe ratio and the efficient frontier. 
-
+Create three portfolios using clustering analysis based on the investors’ risk appetites and a sensitivity analysis and compare the beta and alpha of these portfolios to the benchmark (S&P 500).
 
 
 Useful features from your data & the descriptions of the features:
@@ -37,3 +35,5 @@ Data sources that include the names of your data files and links to retrieve dat
 
 We sourced the data from an open-source python package ‘pandas_datareader’.
 This fetches stock data directly from yahoo finance. 
+
+
