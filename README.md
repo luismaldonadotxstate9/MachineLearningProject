@@ -1,14 +1,17 @@
 # MachineLearningProject
 
 The readme file provides:
+
 Project description:
+
 We have a set of clients that will like to invest $100,000 in the stock market
 Their preference is influenced by their stock appetite
 We will analyze the stock data from the past 5 years (2015-2020) and suggest portfolio composition options
 
 
 
-Use case description: (Dr.Lee ask about this!)
+Use case description: 
+
 Intuitively selected 30 Fortune 500 companies traded on the NYSE across different industry and with different risk profiles. 
 Three types of investors:
 Low risk appetite
