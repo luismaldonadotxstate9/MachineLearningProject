@@ -18,6 +18,7 @@ Create three portfolios using clustering analysis based on the investors’ risk
 
 
 Useful features from your data & the descriptions of the features:
+
 -closing price/stock price- stock prices at the end of the period
 
 -Daily returns- difference between a stock’s closing daily price and beginning daily price
